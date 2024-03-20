@@ -2,18 +2,15 @@
 Checks for various language packs installed in a system and if not found will try to install them
 
 #For Windows System:
-Delete one.sh only need one.bat <br>
-Open terminal in the same folder<br>
-Type
+Delete one.sh only need one.bat\
+Open terminal in the same folder\
+
 ```
 one
 ```
-<br>
 #For Ubuntu user:
-Use one.sh only<br>
-Open terminal in the same folder 
-<br>
-Type : 
+Use one.sh only\
+Open terminal in the same folder\
 
 ```
 bash one.sh
