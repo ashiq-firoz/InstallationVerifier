@@ -1,7 +1,7 @@
 # InstallationVerifier
 Checks for various language packs installed in a system and if not found will try to install them
 
-# For Windows System:
+# For Windows user:
 Delete check.sh <br>
 only need check.bat <br>
 Open terminal in the same folder
@@ -14,5 +14,5 @@ Use check.sh only <br>
 Open terminal in the same folder
 
 ```
-bash check.sh
+sudo bash check.sh
 ```
