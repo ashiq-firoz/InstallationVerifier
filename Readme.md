@@ -7,12 +7,12 @@ only need one.bat <br>
 Open terminal in the same folder
 
 ```
-one
+check
 ```
 # For Ubuntu user:
 Use one.sh only <br>
 Open terminal in the same folder
 
 ```
-bash one.sh
+bash check.sh
 ```
